@@ -3,6 +3,9 @@ package org.example;
 import java.lang.Math;
 import java.util.Scanner;
 
+// import org.apache.logging.log4j.LogManager;
+// import org.apache.logging.log4j.Logger;
+
 public class Calculator {
 
     public static double squareRoot(double n) {
