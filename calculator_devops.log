@@ -1,0 +1,18 @@
+2023-10-28 00:02:05.884 [main] INFO  org.example.Calculator - Start of Execution
+2023-10-28 00:02:20.977 [main] INFO  org.example.Calculator - End of Execution
+2023-10-28 00:02:45.625 [main] INFO  org.example.Calculator - Start of Execution
+2023-10-28 00:03:01.149 [main] INFO  org.example.Calculator - End of Execution
+2023-10-28 00:06:44.365 [main] INFO  org.example.Calculator - Start of Execution
+2023-10-28 00:06:58.253 [main] INFO  org.example.Calculator - End of Execution
+2023-10-28 00:07:05.545 [main] INFO  org.example.Calculator - Start of Execution
+2023-10-28 00:07:37.092 [main] INFO  org.example.Calculator - End of Execution
+2023-10-28 00:12:01.844 [main] INFO  org.example.Calculator - Start of Execution
+2023-10-28 00:12:03.968 [main] WARN  org.example.Calculator - Invalid input
+2023-10-28 00:12:07.624 [main] INFO  org.example.Calculator - START OP: EXPONENT
+2023-10-28 00:12:09.252 [main] INFO  org.example.Calculator - END OP: EXPONENT
+2023-10-28 00:12:11.672 [main] INFO  org.example.Calculator - End of Execution
+2023-10-28 00:12:40.402 [main] INFO  org.example.Calculator - Start of Execution
+2023-10-28 00:12:56.316 [main] WARN  org.example.Calculator - Invalid input
+2023-10-28 00:12:58.369 [main] INFO  org.example.Calculator - START OP: EXPONENT
+2023-10-28 00:13:00.818 [main] INFO  org.example.Calculator - END OP: EXPONENT
+2023-10-28 00:13:03.837 [main] INFO  org.example.Calculator - End of Execution
