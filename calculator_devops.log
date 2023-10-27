@@ -20,3 +20,12 @@
 2023-10-28 00:38:59.672 [main] INFO  org.example.Calculator - START OP: FACTORIAL
 2023-10-28 00:38:59.673 [main] INFO  org.example.Calculator - END OP: FACTORIAL
 2023-10-28 00:39:02.026 [main] INFO  org.example.Calculator - End of Execution
+2023-10-28 01:10:46.599 [main] INFO  org.example.Calculator - Start of Execution
+2023-10-28 01:10:51.989 [main] INFO  org.example.Calculator - START OP: LOGARITHM
+2023-10-28 01:10:51.990 [main] INFO  org.example.Calculator - END OP: LOGARITHM
+2023-10-28 01:10:57.584 [main] INFO  org.example.Calculator - START OP: EXPONENT
+2023-10-28 01:10:58.079 [main] INFO  org.example.Calculator - END OP: EXPONENT
+2023-10-28 01:11:01.413 [main] WARN  org.example.Calculator - Invalid input
+2023-10-28 01:11:02.786 [main] INFO  org.example.Calculator - START OP: EXPONENT
+2023-10-28 01:11:07.094 [main] INFO  org.example.Calculator - END OP: EXPONENT
+2023-10-28 01:11:09.586 [main] INFO  org.example.Calculator - End of Execution
