@@ -16,3 +16,7 @@
 2023-10-28 00:12:58.369 [main] INFO  org.example.Calculator - START OP: EXPONENT
 2023-10-28 00:13:00.818 [main] INFO  org.example.Calculator - END OP: EXPONENT
 2023-10-28 00:13:03.837 [main] INFO  org.example.Calculator - End of Execution
+2023-10-28 00:38:55.416 [main] INFO  org.example.Calculator - Start of Execution
+2023-10-28 00:38:59.672 [main] INFO  org.example.Calculator - START OP: FACTORIAL
+2023-10-28 00:38:59.673 [main] INFO  org.example.Calculator - END OP: FACTORIAL
+2023-10-28 00:39:02.026 [main] INFO  org.example.Calculator - End of Execution
