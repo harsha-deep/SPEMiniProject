@@ -56,12 +56,7 @@ public class Calculator {
 
             System.out.print("Enter Choice: ");
             int choice = sc.nextInt();
-
-            if (choice < 1 || choice > 5) {
-                System.out.println("Enter a valid choice.");
-                logger.warn("Invalid input");
-            }
-
+            
             if (choice == 5) {
                 logger.info("End of Execution");
                 break;
