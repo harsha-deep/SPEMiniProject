@@ -37,3 +37,7 @@
 2023-11-07 19:29:50.637 [main] INFO  org.example.Calculator - START OP: EXPONENT
 2023-11-07 19:29:51.814 [main] INFO  org.example.Calculator - END OP: EXPONENT
 2023-11-07 19:29:53.308 [main] INFO  org.example.Calculator - End of Execution
+2023-11-13 10:14:33.875 [main] INFO  org.example.Calculator - Start of Execution
+2023-11-13 10:14:37.589 [main] INFO  org.example.Calculator - START OP: SQUARE ROOT
+2023-11-13 10:14:37.589 [main] INFO  org.example.Calculator - END OP: SQUARE ROOT
+2023-11-13 10:14:38.741 [main] INFO  org.example.Calculator - End of Execution
